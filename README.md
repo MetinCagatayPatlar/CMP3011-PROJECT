@@ -11,11 +11,16 @@
 ├── traffic_app_counter.py
 
 ├── images/
+
 │   ├── train/
+
 │   └── val/
 
+
 └── labels/
+
     ├── train/
+    
     └── val/
 
 
