@@ -39,7 +39,7 @@ NumPy
 
   **Dataset Preparation**
                
-               .. Arrange your dataset like this:
+   Arrange your dataset like this
 images/
   train/
   val/
@@ -47,7 +47,7 @@ labels/
   train/
   val/
                
-               ..Your coco8.yaml should look like:
+   Your coco8.yaml should look like
 train: images/train
 val:   images/val
 
